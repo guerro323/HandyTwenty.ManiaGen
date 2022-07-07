@@ -14,7 +14,7 @@
 
 
     <ItemGroup>
-        <ProjectReference Include="..\src\HandyTwenty.ManialinkGenerator.csproj" OutputItemType="Analyzer" />
+        <ProjectReference Include="..\ManiaGen.Generator\ManiaGen.Generator.csproj" OutputItemType="Analyzer" />
     </ItemGroup>
 
 
