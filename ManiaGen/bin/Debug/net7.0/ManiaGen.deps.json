@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ManiaGen/1.0.0": {
+        "dependencies": {
+          "HandyTwenty.ManialinkGenerator": "1.0.0",
+          "System.Runtime.Experimental": "6.0.2"
+        },
+        "runtime": {
+          "ManiaGen.dll": {}
+        }
+      },
+      "System.Runtime.Experimental/6.0.2": {},
+      "HandyTwenty.ManialinkGenerator/1.0.0": {
+        "runtime": {
+          "HandyTwenty.ManialinkGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManiaGen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.Experimental/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YFw4XOgVaF9T8vT3V148ypGTm8PnEchW1eyq+7ssIh7fmr+6JY3oNFx5KivLSDC4ugNsAm7HqYPnQEpC0C/BXA==",
+      "path": "system.runtime.experimental/6.0.2",
+      "hashPath": "system.runtime.experimental.6.0.2.nupkg.sha512"
+    },
+    "HandyTwenty.ManialinkGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

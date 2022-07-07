@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Test</id>
+    <version>1.0.0</version>
+    <authors>Test</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="HandyTwenty.ManialinkGenerator" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/media/guerro/FastBoi/Projets/Mania/Controllers/HandyTwenty.ManialinkGenerator/Test/bin/Debug/net6.0/Test.runtimeconfig.json" target="lib/net6.0/Test.runtimeconfig.json" />
+    <file src="/media/guerro/FastBoi/Projets/Mania/Controllers/HandyTwenty.ManialinkGenerator/Test/bin/Debug/net6.0/Test.dll" target="lib/net6.0/Test.dll" />
+  </files>
+</package>
