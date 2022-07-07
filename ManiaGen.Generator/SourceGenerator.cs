@@ -3,7 +3,7 @@ using System.Text;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.Text;
 
-namespace HandyTwenty.ManialinkGenerator;
+namespace ManiaGen.Generator;
 
 [Generator]
 public class SourceGenerator : ISourceGenerator

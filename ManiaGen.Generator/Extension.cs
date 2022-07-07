@@ -1,6 +1,6 @@
 using Microsoft.CodeAnalysis;
 
-namespace HandyTwenty.ManialinkGenerator;
+namespace ManiaGen.Generator;
 
 public static class Extension
 {

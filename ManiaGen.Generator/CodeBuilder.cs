@@ -2,7 +2,7 @@ using System.Text;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 
-namespace HandyTwenty.ManialinkGenerator;
+namespace ManiaGen.Generator;
 
 public class CodeBuilder
 {

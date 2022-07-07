@@ -1,7 +1,7 @@
 using System.Text;
 using Microsoft.CodeAnalysis;
 
-namespace HandyTwenty.ManialinkGenerator;
+namespace ManiaGen.Generator;
 
 public partial class MethodGenerator
 {
