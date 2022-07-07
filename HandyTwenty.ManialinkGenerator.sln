@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandyTwenty.ManialinkGenerator", "src\HandyTwenty.ManialinkGenerator.csproj", "{F5B8B6DE-BFEB-47D8-B75B-03B2F4670EE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManiaGen.Generator", "ManiaGen.Generator\ManiaGen.Generator.csproj", "{F5B8B6DE-BFEB-47D8-B75B-03B2F4670EE8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManiaGen", "ManiaGen\ManiaGen.csproj", "{7E1E7897-2CD7-4873-BC07-A0F4AAC3138B}"
 EndProject
