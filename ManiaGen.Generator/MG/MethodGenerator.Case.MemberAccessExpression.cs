@@ -1,4 +1,5 @@
 using System.Text;
+using HandyTwenty.ManialinkGenerator;
 using Microsoft.CodeAnalysis;
 
 namespace ManiaGen.Generator;
